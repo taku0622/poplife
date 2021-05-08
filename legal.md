@@ -7,9 +7,9 @@ background: grey
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+このプライバシーポリシーは、お客様が {{ site.title }} （以下「本サイト」といいます）をご利用になる際に、お客様の個人情報がどのように収集、使用、共有されるかを説明するものです。
 
-**PERSONAL INFORMATION WE COLLECT**
+**当社が収集する個人情報**
 
 {% if site.analytics.google %}
 
@@ -25,14 +25,14 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+当社は、個人的な理由、運営上の理由、法律上の理由、または規制上の理由により、本プライバシーポリシーを適宜更新することがあります。
 
 {% endif %}
 
-**CHANGES**
+**変更について**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+当社は、個人的な理由、運営上の理由、法律上の理由、または規制上の理由により、本プライバシーポリシーを適宜更新することがあります。
 
-**CONTACT US**
+**お問い合わせ**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+当社の個人情報保護方針についての詳細やご質問は、 <a href="https://www.instagram.com/basket_pop9724/">InstagramのDM</a>にてお問い合わせください。

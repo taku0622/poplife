@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to poplife's site!
-    text: poplife!!!
+    text:  Have a poplife!!!
     button: Members
     buttonlink: "#team"
 
@@ -39,34 +39,24 @@ en: &DEFAULT_EN
 
   timeline:
     title: "About"
-    text: "Lorem ipsum timeline"
+    text: "タイムライン"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "結成"
+        year: "2019"
+        desc: "3人で気軽にバスケができるグループ <br> **「Myoko Poplife」** を打ち立てる。"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "増員"
+        year: "2020"
+        desc: "メンバーが増え、全員で7人となる。<br>また、「ご飯を食べに行く」など活動の幅も増える。"
         image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "現在も <br> 不定期だが <br> 活動中!"
 
   # about:
   #   title: "About Us"
@@ -93,40 +83,32 @@ en: &DEFAULT_EN
 
   team:
     title: "Members"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "メンバー紹介"
+    subtext: メンバーはまだいるが書くの疲れたので休憩。
     section: team
     people:
       - name: "おたけ"
         role: "お・たけ"
         image: assets/img/team/otake.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/takeshi2330
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          - url: https://instagram.com/takeshi__terasawa
+            icon: "fab fa-instagram"
+      - name: "おほ"
+        role: "於保"
+        image: assets/img/team/oho.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/hosaka0725
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+          - url: https://instagram.com/0725_haruki
+            icon: "fab fa-instagram"
+      - name: "おたく"
+        role: "書記"
+        image: assets/img/team/otaku.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://instagram.com/maple_taku
+            icon: "fab fa-instagram"
 
   # contact:
   #   title: "Contact Us"
@@ -146,15 +128,7 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://instagram.com/basket_pop9724
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
