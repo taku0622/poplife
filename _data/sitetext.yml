@@ -46,12 +46,12 @@ en: &DEFAULT_EN
     events:
       - title: "結成"
         year: "2019"
-        desc: "3人で気軽にバスケができるグループ <br> **「Myoko Poplife」** を打ち立てる。"
+        desc: "3人で気軽にバスケができるグループ **「Myoko Poplife」** を打ち立てる。"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "増員"
         year: "2020"
-        desc: "メンバーが増え、全員で7人となる。<br>また、「ご飯を食べに行く」など活動の幅も増える。"
+        desc: "メンバーが増え、全員で7人となる。また、「ご飯を食べに行く」など活動の幅も増える。"
         image: assets/img/timeline/2.jpg
         alt:
         # you can enforce the alignment
