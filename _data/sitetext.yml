@@ -84,7 +84,7 @@ en: &DEFAULT_EN
   team:
     title: "Members"
     text: "メンバー紹介"
-    subtext: メンバーはまだいるが書くの疲れたので休憩。
+    subtext: メンバーはまだいるが書くの疲れたので休憩。あとどの写真使ってよいかわからない。
     section: team
     people:
       - name: "おたけ"
